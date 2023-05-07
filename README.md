@@ -24,7 +24,9 @@ openai Python library
    export OPENAI_API_KEY="your_openai_api_key_here"
    ```
 
-5. Save the provided code in a Python file, for example, as it is namegpt.py.
+5. Save the provided code in a Python file, for example, as it is namegpt.py. or 
+
+   ``` git clone https://github.com/BeeChains/names-plugin.git ```
 
    Find and Replace these keywords in the python code with your desired top SEO-optimized keywords.
    ```
